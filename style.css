@@ -1,0 +1,37 @@
+#Author{
+ color: aqua;
+}
+small {
+    color: thistle;
+}
+#titile-top {
+    text-align: center;
+    text-decoration: lightseagreen;
+    text-transform: uppercase;
+    border-bottom: 4px solid black;
+
+}
+
+
+.blog h1 {
+text-align: center;
+font-size: 50px;
+color: floralwhite;
+font-family: monospace;
+text-transform: uppercase;
+}
+
+.blog {
+    background: crimson;
+    margin: 40px;
+    text-align: center;
+    padding: 20px;
+    border:20px solid rgb(9, 247, 156) ;
+    border-radius: 20px;
+    text-align: justify;  
+
+}
+
+.blog p {
+    color: rgb(147, 248, 16);
+}
